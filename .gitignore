@@ -1,0 +1,16 @@
+# Node/Bun
+node_modules
+.pnp
+.pnp.js
+.bun
+
+# Builds
+dist
+coverage
+
+# Env
+.env
+.env.*.local
+.DS_Store
+
+
